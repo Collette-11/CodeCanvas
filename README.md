@@ -1,2 +1,2 @@
 # CodeCanvas
-I  enjoy outdoor activities like hicking.
+A showcase of  my coding journey,featuring projects that highlight my skills.
